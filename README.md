@@ -1,10 +1,10 @@
  
-# Full Stack Website with GitHub Pages Frontend & Firebase Backend free hosting 🚀
+# Full Stack Website with GitHub Pages Frontend & Firebase Backend free hosting 
 
 Welcome to your step-by-step guide for building a modern, **full stack web application** that seamlessly combines the best of both worlds:
 
 - **Frontend:** A blazing-fast, secure static website hosted on **GitHub Pages**  
-- **Backend:** A scalable, real-time database powered by **Firebase** (Firestore or Realtime Database)
+- **Backend:** A scalable, serverless database powered by **Firebase** (Firestore or Realtime Database)
 
 ---
 
