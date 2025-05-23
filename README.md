@@ -1,5 +1,5 @@
  
-# Full Stack Website with GitHub Pages Frontend & Firebase Backend 🚀
+# Full Stack Website with GitHub Pages Frontend & Firebase Backend free hosting 🚀
 
 Welcome to your step-by-step guide for building a modern, **full stack web application** that seamlessly combines the best of both worlds:
 
