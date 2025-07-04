@@ -5,6 +5,9 @@ Welcome to your step-by-step guide for building a modern, **full stack web appli
 
 - **Frontend:** A blazing-fast, secure static website hosted on **GitHub Pages**  
 - **Backend:** A scalable, serverless database powered by **Firebase** (Firestore or Realtime Database)
+ <br>
+
+  ### - Note:- [Firebase Installation Guide (Linux, Android & macOS)](https://github.com/Kenjin32icon/Simple-Full-stack-web-development./blob/fd4bf395ece99d4a45f32aa9877251bded954ac5/Firebase%20Installation%20Guide%20(Linux%2C%20Android%20%26%20macOS).md)
 
 ---
 
