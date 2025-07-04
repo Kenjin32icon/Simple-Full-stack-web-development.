@@ -28,7 +28,7 @@ Welcome to your step-by-step guide for building a modern, **full stack web appli
 
 ## Quick Overview - Step-by-Step
 
-1. **Create a Firebase Project**: Start a Firebase project and enable Firestore or Realtime Database.  
+1. **[Create a Firebase Project](https://github.com/Kenjin32icon/Simple-Full-stack-web-development./blob/7639f413f4b0c8f380018a8ae1d632da901caf24/Steps%20of%20creating%20a%20Firbase%20project.md)**: Start a Firebase project and enable Firestore or Realtime Database.  
 2. **Configure Firebase SDK**: Register your web app and get your config keys.  
 3. **Build Your Frontend**: Create an `index.html` with Firebase SDK scripts and your app logic.  
 4. **Push to GitHub**: Commit your code to a GitHub repo.  
